@@ -1,0 +1,4620 @@
+[{
+  "_id": {
+    "$oid": "68174fb66bf80fc68f8a95e1"
+  },
+  "title": "The Shawshank Redemption",
+  "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.7,
+    "count": 28234
+  },
+  "duration": "2h 22m",
+  "releaseDate": "1994-09-23",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$25,000,000",
+  "revenue": "$28,341,469",
+  "tagline": "Fear can hold you prisoner. Hope can set you free.",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:29:58.945Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:29:58.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68174fb76bf80fc68f8a95e3"
+  },
+  "title": "The Godfather",
+  "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.686,
+    "count": 21404
+  },
+  "duration": "2h 55m",
+  "releaseDate": "1972-03-14",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$6,000,000",
+  "revenue": "$245,066,411",
+  "tagline": "An offer you can't refuse.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "Alfran Productions"
+  ],
+  "homepage": "http://www.thegodfather.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:29:59.197Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:29:59.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68174fb76bf80fc68f8a95e5"
+  },
+  "title": "The Godfather Part II",
+  "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.571,
+    "count": 12929
+  },
+  "duration": "3h 22m",
+  "releaseDate": "1974-12-20",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$13,000,000",
+  "revenue": "$102,600,000",
+  "tagline": "The rise and fall of the Corleone empire.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company",
+    "American Zoetrope"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:29:59.452Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:29:59.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68174fb76bf80fc68f8a95e7"
+  },
+  "title": "Schindler's List",
+  "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Schindler's%20List%20trailer",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "rating": {
+    "average": 8.564,
+    "count": 16403
+  },
+  "duration": "3h 15m",
+  "releaseDate": "1993-12-15",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$22,000,000",
+  "revenue": "$321,365,567",
+  "tagline": "Whoever saves one life, saves the world entire.",
+  "productionCompanies": [
+    "Amblin Entertainment"
+  ],
+  "homepage": "http://www.schindlerslist.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:29:59.686Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:29:59.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68174fb76bf80fc68f8a95e9"
+  },
+  "title": "12 Angry Men",
+  "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=12%20Angry%20Men%20trailer",
+  "genres": [
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 9107
+  },
+  "duration": "1h 37m",
+  "releaseDate": "1957-04-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$397,751",
+  "revenue": "$4,360,000",
+  "tagline": "Life is in their hands — Death is on their minds!",
+  "productionCompanies": [
+    "United Artists",
+    "Orion-Nova Productions"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:29:59.921Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:29:59.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68174fb86bf80fc68f8a95eb"
+  },
+  "title": "Spirited Away",
+  "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Spirited%20Away%20trailer",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "rating": {
+    "average": 8.536,
+    "count": 17099
+  },
+  "duration": "2h 5m",
+  "releaseDate": "2001-07-20",
+  "status": "Released",
+  "countries": [
+    "Japan"
+  ],
+  "budget": "$19,000,000",
+  "revenue": "$274,925,095",
+  "tagline": "On the other side of the tunnel was a mysterious town.",
+  "productionCompanies": [
+    "Studio Ghibli"
+  ],
+  "homepage": "http://movies.disney.com/spirited-away",
+  "createdAt": {
+    "$date": "2025-05-04T11:30:00.158Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:30:00.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68174fb86bf80fc68f8a95ed"
+  },
+  "title": "The Dark Knight",
+  "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20trailer",
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "rating": {
+    "average": 8.519,
+    "count": 33791
+  },
+  "duration": "2h 32m",
+  "releaseDate": "2008-07-16",
+  "status": "Released",
+  "countries": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "budget": "$185,000,000",
+  "revenue": "$1,004,558,444",
+  "tagline": "Welcome to a world without rules.",
+  "productionCompanies": [
+    "Warner Bros. Pictures",
+    "Legendary Pictures",
+    "Syncopy",
+    "DC"
+  ],
+  "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+  "createdAt": {
+    "$date": "2025-05-04T11:30:00.402Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:30:00.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68174fb86bf80fc68f8a95ef"
+  },
+  "title": "Dilwale Dulhania Le Jayenge",
+  "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Dilwale%20Dulhania%20Le%20Jayenge%20trailer",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 4484
+  },
+  "duration": "3h 10m",
+  "releaseDate": "1995-10-20",
+  "status": "Released",
+  "countries": [
+    "India"
+  ],
+  "budget": "$13,200,000",
+  "revenue": "$100,000,000",
+  "tagline": "Come… Fall In love, All Over Again…",
+  "productionCompanies": [
+    "Yash Raj Films"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:30:00.704Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:30:00.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68174fb86bf80fc68f8a95f1"
+  },
+  "title": "The Green Mile",
+  "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Green%20Mile%20trailer",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.504,
+    "count": 18058
+  },
+  "duration": "3h 9m",
+  "releaseDate": "1999-12-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$60,000,000",
+  "revenue": "$286,801,374",
+  "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+  "productionCompanies": [
+    "Castle Rock Entertainment",
+    "Darkwoods Productions"
+  ],
+  "homepage": "http://thegreenmile.warnerbros.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:30:00.943Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:30:00.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68174fb96bf80fc68f8a95f3"
+  },
+  "title": "Parasite",
+  "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Parasite%20trailer",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 19002
+  },
+  "duration": "2h 13m",
+  "releaseDate": "2019-05-30",
+  "status": "Released",
+  "countries": [
+    "South Korea"
+  ],
+  "budget": "$11,363,000",
+  "revenue": "$257,591,776",
+  "tagline": "Act like you own the place.",
+  "productionCompanies": [
+    "Barunson E&A"
+  ],
+  "homepage": "https://www.parasite-movie.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:30:01.183Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:30:01.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817505b854817720e668ec4"
+  },
+  "title": "The Shawshank Redemption",
+  "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.7,
+    "count": 28234
+  },
+  "duration": "2h 22m",
+  "releaseDate": "1994-09-23",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$25,000,000",
+  "revenue": "$28,341,469",
+  "tagline": "Fear can hold you prisoner. Hope can set you free.",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:32:43.279Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:32:43.279Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817505b854817720e668ec6"
+  },
+  "title": "The Godfather",
+  "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.686,
+    "count": 21404
+  },
+  "duration": "2h 55m",
+  "releaseDate": "1972-03-14",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$6,000,000",
+  "revenue": "$245,066,411",
+  "tagline": "An offer you can't refuse.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "Alfran Productions"
+  ],
+  "homepage": "http://www.thegodfather.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:32:43.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:32:43.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817505b854817720e668ec8"
+  },
+  "title": "The Godfather Part II",
+  "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.571,
+    "count": 12929
+  },
+  "duration": "3h 22m",
+  "releaseDate": "1974-12-20",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$13,000,000",
+  "revenue": "$102,600,000",
+  "tagline": "The rise and fall of the Corleone empire.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company",
+    "American Zoetrope"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:32:43.606Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:32:43.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817505b854817720e668eca"
+  },
+  "title": "Schindler's List",
+  "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Schindler's%20List%20trailer",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "rating": {
+    "average": 8.564,
+    "count": 16403
+  },
+  "duration": "3h 15m",
+  "releaseDate": "1993-12-15",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$22,000,000",
+  "revenue": "$321,365,567",
+  "tagline": "Whoever saves one life, saves the world entire.",
+  "productionCompanies": [
+    "Amblin Entertainment"
+  ],
+  "homepage": "http://www.schindlerslist.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:32:43.763Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:32:43.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817505b854817720e668ecc"
+  },
+  "title": "12 Angry Men",
+  "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=12%20Angry%20Men%20trailer",
+  "genres": [
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 9107
+  },
+  "duration": "1h 37m",
+  "releaseDate": "1957-04-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$397,751",
+  "revenue": "$4,360,000",
+  "tagline": "Life is in their hands — Death is on their minds!",
+  "productionCompanies": [
+    "United Artists",
+    "Orion-Nova Productions"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:32:43.929Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:32:43.929Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817505c854817720e668ece"
+  },
+  "title": "Spirited Away",
+  "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Spirited%20Away%20trailer",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "rating": {
+    "average": 8.536,
+    "count": 17099
+  },
+  "duration": "2h 5m",
+  "releaseDate": "2001-07-20",
+  "status": "Released",
+  "countries": [
+    "Japan"
+  ],
+  "budget": "$19,000,000",
+  "revenue": "$274,925,095",
+  "tagline": "On the other side of the tunnel was a mysterious town.",
+  "productionCompanies": [
+    "Studio Ghibli"
+  ],
+  "homepage": "http://movies.disney.com/spirited-away",
+  "createdAt": {
+    "$date": "2025-05-04T11:32:44.085Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:32:44.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817505c854817720e668ed0"
+  },
+  "title": "The Dark Knight",
+  "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20trailer",
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "rating": {
+    "average": 8.519,
+    "count": 33791
+  },
+  "duration": "2h 32m",
+  "releaseDate": "2008-07-16",
+  "status": "Released",
+  "countries": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "budget": "$185,000,000",
+  "revenue": "$1,004,558,444",
+  "tagline": "Welcome to a world without rules.",
+  "productionCompanies": [
+    "Warner Bros. Pictures",
+    "Legendary Pictures",
+    "Syncopy",
+    "DC"
+  ],
+  "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+  "createdAt": {
+    "$date": "2025-05-04T11:32:44.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:32:44.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817505c854817720e668ed2"
+  },
+  "title": "Dilwale Dulhania Le Jayenge",
+  "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Dilwale%20Dulhania%20Le%20Jayenge%20trailer",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 4484
+  },
+  "duration": "3h 10m",
+  "releaseDate": "1995-10-20",
+  "status": "Released",
+  "countries": [
+    "India"
+  ],
+  "budget": "$13,200,000",
+  "revenue": "$100,000,000",
+  "tagline": "Come… Fall In love, All Over Again…",
+  "productionCompanies": [
+    "Yash Raj Films"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:32:44.622Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:32:44.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817505c854817720e668ed4"
+  },
+  "title": "The Green Mile",
+  "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Green%20Mile%20trailer",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.504,
+    "count": 18058
+  },
+  "duration": "3h 9m",
+  "releaseDate": "1999-12-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$60,000,000",
+  "revenue": "$286,801,374",
+  "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+  "productionCompanies": [
+    "Castle Rock Entertainment",
+    "Darkwoods Productions"
+  ],
+  "homepage": "http://thegreenmile.warnerbros.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:32:44.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:32:44.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817505c854817720e668ed6"
+  },
+  "title": "Parasite",
+  "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Parasite%20trailer",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 19002
+  },
+  "duration": "2h 13m",
+  "releaseDate": "2019-05-30",
+  "status": "Released",
+  "countries": [
+    "South Korea"
+  ],
+  "budget": "$11,363,000",
+  "revenue": "$257,591,776",
+  "tagline": "Act like you own the place.",
+  "productionCompanies": [
+    "Barunson E&A"
+  ],
+  "homepage": "https://www.parasite-movie.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:32:44.940Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:32:44.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753ad2ca7e9ded99c3feb"
+  },
+  "title": "The Shawshank Redemption",
+  "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.7,
+    "count": 28234
+  },
+  "duration": "2h 22m",
+  "releaseDate": "1994-09-23",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$25,000,000",
+  "revenue": "$28,341,469",
+  "tagline": "Fear can hold you prisoner. Hope can set you free.",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:46:53.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:46:53.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753ad2ca7e9ded99c3fed"
+  },
+  "title": "The Godfather",
+  "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.686,
+    "count": 21404
+  },
+  "duration": "2h 55m",
+  "releaseDate": "1972-03-14",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$6,000,000",
+  "revenue": "$245,066,411",
+  "tagline": "An offer you can't refuse.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "Alfran Productions"
+  ],
+  "homepage": "http://www.thegodfather.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:46:53.670Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:46:53.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753ad2ca7e9ded99c3fef"
+  },
+  "title": "The Godfather Part II",
+  "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.571,
+    "count": 12929
+  },
+  "duration": "3h 22m",
+  "releaseDate": "1974-12-20",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$13,000,000",
+  "revenue": "$102,600,000",
+  "tagline": "The rise and fall of the Corleone empire.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company",
+    "American Zoetrope"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:46:53.734Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:46:53.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753ad2ca7e9ded99c3ff1"
+  },
+  "title": "Schindler's List",
+  "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Schindler's%20List%20trailer",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "rating": {
+    "average": 8.564,
+    "count": 16403
+  },
+  "duration": "3h 15m",
+  "releaseDate": "1993-12-15",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$22,000,000",
+  "revenue": "$321,365,567",
+  "tagline": "Whoever saves one life, saves the world entire.",
+  "productionCompanies": [
+    "Amblin Entertainment"
+  ],
+  "homepage": "http://www.schindlerslist.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:46:53.784Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:46:53.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753ad2ca7e9ded99c3ff3"
+  },
+  "title": "12 Angry Men",
+  "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=12%20Angry%20Men%20trailer",
+  "genres": [
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 9107
+  },
+  "duration": "1h 37m",
+  "releaseDate": "1957-04-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$397,751",
+  "revenue": "$4,360,000",
+  "tagline": "Life is in their hands — Death is on their minds!",
+  "productionCompanies": [
+    "United Artists",
+    "Orion-Nova Productions"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:46:53.820Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:46:53.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753ad2ca7e9ded99c3ff5"
+  },
+  "title": "Spirited Away",
+  "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Spirited%20Away%20trailer",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "rating": {
+    "average": 8.536,
+    "count": 17099
+  },
+  "duration": "2h 5m",
+  "releaseDate": "2001-07-20",
+  "status": "Released",
+  "countries": [
+    "Japan"
+  ],
+  "budget": "$19,000,000",
+  "revenue": "$274,925,095",
+  "tagline": "On the other side of the tunnel was a mysterious town.",
+  "productionCompanies": [
+    "Studio Ghibli"
+  ],
+  "homepage": "http://movies.disney.com/spirited-away",
+  "createdAt": {
+    "$date": "2025-05-04T11:46:53.858Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:46:53.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753ad2ca7e9ded99c3ff7"
+  },
+  "title": "The Dark Knight",
+  "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20trailer",
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "rating": {
+    "average": 8.519,
+    "count": 33791
+  },
+  "duration": "2h 32m",
+  "releaseDate": "2008-07-16",
+  "status": "Released",
+  "countries": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "budget": "$185,000,000",
+  "revenue": "$1,004,558,444",
+  "tagline": "Welcome to a world without rules.",
+  "productionCompanies": [
+    "Warner Bros. Pictures",
+    "Legendary Pictures",
+    "Syncopy",
+    "DC"
+  ],
+  "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+  "createdAt": {
+    "$date": "2025-05-04T11:46:53.903Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:46:53.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753ad2ca7e9ded99c3ff9"
+  },
+  "title": "Dilwale Dulhania Le Jayenge",
+  "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Dilwale%20Dulhania%20Le%20Jayenge%20trailer",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 4484
+  },
+  "duration": "3h 10m",
+  "releaseDate": "1995-10-20",
+  "status": "Released",
+  "countries": [
+    "India"
+  ],
+  "budget": "$13,200,000",
+  "revenue": "$100,000,000",
+  "tagline": "Come… Fall In love, All Over Again…",
+  "productionCompanies": [
+    "Yash Raj Films"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:46:53.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:46:53.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753ad2ca7e9ded99c3ffb"
+  },
+  "title": "The Green Mile",
+  "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Green%20Mile%20trailer",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.504,
+    "count": 18058
+  },
+  "duration": "3h 9m",
+  "releaseDate": "1999-12-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$60,000,000",
+  "revenue": "$286,801,374",
+  "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+  "productionCompanies": [
+    "Castle Rock Entertainment",
+    "Darkwoods Productions"
+  ],
+  "homepage": "http://thegreenmile.warnerbros.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:46:53.994Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:46:53.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753ae2ca7e9ded99c3ffd"
+  },
+  "title": "Parasite",
+  "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Parasite%20trailer",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 19002
+  },
+  "duration": "2h 13m",
+  "releaseDate": "2019-05-30",
+  "status": "Released",
+  "countries": [
+    "South Korea"
+  ],
+  "budget": "$11,363,000",
+  "revenue": "$257,591,776",
+  "tagline": "Act like you own the place.",
+  "productionCompanies": [
+    "Barunson E&A"
+  ],
+  "homepage": "https://www.parasite-movie.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:46:54.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:46:54.039Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753eecb377392ced051b8"
+  },
+  "title": "The Shawshank Redemption",
+  "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.7,
+    "count": 28234
+  },
+  "duration": "2h 22m",
+  "releaseDate": "1994-09-23",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$25,000,000",
+  "revenue": "$28,341,469",
+  "tagline": "Fear can hold you prisoner. Hope can set you free.",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:47:58.804Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:47:58.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753eecb377392ced051ba"
+  },
+  "title": "The Godfather",
+  "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.686,
+    "count": 21404
+  },
+  "duration": "2h 55m",
+  "releaseDate": "1972-03-14",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$6,000,000",
+  "revenue": "$245,066,411",
+  "tagline": "An offer you can't refuse.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "Alfran Productions"
+  ],
+  "homepage": "http://www.thegodfather.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:47:58.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:47:58.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753eecb377392ced051bc"
+  },
+  "title": "The Godfather Part II",
+  "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.571,
+    "count": 12929
+  },
+  "duration": "3h 22m",
+  "releaseDate": "1974-12-20",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$13,000,000",
+  "revenue": "$102,600,000",
+  "tagline": "The rise and fall of the Corleone empire.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company",
+    "American Zoetrope"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:47:58.911Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:47:58.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753eecb377392ced051be"
+  },
+  "title": "Schindler's List",
+  "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Schindler's%20List%20trailer",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "rating": {
+    "average": 8.564,
+    "count": 16403
+  },
+  "duration": "3h 15m",
+  "releaseDate": "1993-12-15",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$22,000,000",
+  "revenue": "$321,365,567",
+  "tagline": "Whoever saves one life, saves the world entire.",
+  "productionCompanies": [
+    "Amblin Entertainment"
+  ],
+  "homepage": "http://www.schindlerslist.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:47:58.957Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:47:58.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753eecb377392ced051c0"
+  },
+  "title": "12 Angry Men",
+  "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=12%20Angry%20Men%20trailer",
+  "genres": [
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 9107
+  },
+  "duration": "1h 37m",
+  "releaseDate": "1957-04-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$397,751",
+  "revenue": "$4,360,000",
+  "tagline": "Life is in their hands — Death is on their minds!",
+  "productionCompanies": [
+    "United Artists",
+    "Orion-Nova Productions"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:47:58.995Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:47:58.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753efcb377392ced051c2"
+  },
+  "title": "Spirited Away",
+  "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Spirited%20Away%20trailer",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "rating": {
+    "average": 8.536,
+    "count": 17099
+  },
+  "duration": "2h 5m",
+  "releaseDate": "2001-07-20",
+  "status": "Released",
+  "countries": [
+    "Japan"
+  ],
+  "budget": "$19,000,000",
+  "revenue": "$274,925,095",
+  "tagline": "On the other side of the tunnel was a mysterious town.",
+  "productionCompanies": [
+    "Studio Ghibli"
+  ],
+  "homepage": "http://movies.disney.com/spirited-away",
+  "createdAt": {
+    "$date": "2025-05-04T11:47:59.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:47:59.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753efcb377392ced051c4"
+  },
+  "title": "The Dark Knight",
+  "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20trailer",
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "rating": {
+    "average": 8.519,
+    "count": 33791
+  },
+  "duration": "2h 32m",
+  "releaseDate": "2008-07-16",
+  "status": "Released",
+  "countries": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "budget": "$185,000,000",
+  "revenue": "$1,004,558,444",
+  "tagline": "Welcome to a world without rules.",
+  "productionCompanies": [
+    "Warner Bros. Pictures",
+    "Legendary Pictures",
+    "Syncopy",
+    "DC"
+  ],
+  "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+  "createdAt": {
+    "$date": "2025-05-04T11:47:59.083Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:47:59.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753efcb377392ced051c6"
+  },
+  "title": "Dilwale Dulhania Le Jayenge",
+  "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Dilwale%20Dulhania%20Le%20Jayenge%20trailer",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 4484
+  },
+  "duration": "3h 10m",
+  "releaseDate": "1995-10-20",
+  "status": "Released",
+  "countries": [
+    "India"
+  ],
+  "budget": "$13,200,000",
+  "revenue": "$100,000,000",
+  "tagline": "Come… Fall In love, All Over Again…",
+  "productionCompanies": [
+    "Yash Raj Films"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-04T11:47:59.132Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:47:59.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753efcb377392ced051c8"
+  },
+  "title": "The Green Mile",
+  "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Green%20Mile%20trailer",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.504,
+    "count": 18058
+  },
+  "duration": "3h 9m",
+  "releaseDate": "1999-12-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$60,000,000",
+  "revenue": "$286,801,374",
+  "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+  "productionCompanies": [
+    "Castle Rock Entertainment",
+    "Darkwoods Productions"
+  ],
+  "homepage": "http://thegreenmile.warnerbros.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:47:59.174Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:47:59.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681753efcb377392ced051ca"
+  },
+  "title": "Parasite",
+  "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Parasite%20trailer",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 19002
+  },
+  "duration": "2h 13m",
+  "releaseDate": "2019-05-30",
+  "status": "Released",
+  "countries": [
+    "South Korea"
+  ],
+  "budget": "$11,363,000",
+  "revenue": "$257,591,776",
+  "tagline": "Act like you own the place.",
+  "productionCompanies": [
+    "Barunson E&A"
+  ],
+  "homepage": "https://www.parasite-movie.com/",
+  "createdAt": {
+    "$date": "2025-05-04T11:47:59.220Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T11:47:59.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b6197372b54771c971d0"
+  },
+  "title": "The Shawshank Redemption",
+  "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.709,
+    "count": 28236
+  },
+  "duration": "2h 22m",
+  "releaseDate": "1994-09-23",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$25,000,000",
+  "revenue": "$28,341,469",
+  "tagline": "Fear can hold you prisoner. Hope can set you free.",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T12:59:05.656Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:59:05.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b6197372b54771c971d2"
+  },
+  "title": "The Godfather",
+  "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.686,
+    "count": 21407
+  },
+  "duration": "2h 55m",
+  "releaseDate": "1972-03-14",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$6,000,000",
+  "revenue": "$245,066,411",
+  "tagline": "An offer you can't refuse.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "Alfran Productions"
+  ],
+  "homepage": "http://www.thegodfather.com/",
+  "createdAt": {
+    "$date": "2025-05-05T12:59:05.937Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:59:05.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b61a7372b54771c971d4"
+  },
+  "title": "The Godfather Part II",
+  "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.571,
+    "count": 12929
+  },
+  "duration": "3h 22m",
+  "releaseDate": "1974-12-20",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$13,000,000",
+  "revenue": "$102,600,000",
+  "tagline": "The rise and fall of the Corleone empire.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company",
+    "American Zoetrope"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T12:59:06.172Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:59:06.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b61a7372b54771c971d6"
+  },
+  "title": "Schindler's List",
+  "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Schindler's%20List%20trailer",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "rating": {
+    "average": 8.564,
+    "count": 16405
+  },
+  "duration": "3h 15m",
+  "releaseDate": "1993-12-15",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$22,000,000",
+  "revenue": "$321,365,567",
+  "tagline": "Whoever saves one life, saves the world entire.",
+  "productionCompanies": [
+    "Amblin Entertainment"
+  ],
+  "homepage": "http://www.schindlerslist.com/",
+  "createdAt": {
+    "$date": "2025-05-05T12:59:06.429Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:59:06.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b61a7372b54771c971d8"
+  },
+  "title": "12 Angry Men",
+  "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=12%20Angry%20Men%20trailer",
+  "genres": [
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.548,
+    "count": 9109
+  },
+  "duration": "1h 37m",
+  "releaseDate": "1957-04-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$397,751",
+  "revenue": "$4,360,000",
+  "tagline": "Life is in their hands — Death is on their minds!",
+  "productionCompanies": [
+    "United Artists",
+    "Orion-Nova Productions"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T12:59:06.667Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:59:06.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b61a7372b54771c971da"
+  },
+  "title": "Spirited Away",
+  "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Spirited%20Away%20trailer",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 17101
+  },
+  "duration": "2h 5m",
+  "releaseDate": "2001-07-20",
+  "status": "Released",
+  "countries": [
+    "Japan"
+  ],
+  "budget": "$19,000,000",
+  "revenue": "$274,925,095",
+  "tagline": "On the other side of the tunnel was a mysterious town.",
+  "productionCompanies": [
+    "Studio Ghibli"
+  ],
+  "homepage": "http://movies.disney.com/spirited-away",
+  "createdAt": {
+    "$date": "2025-05-05T12:59:06.927Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:59:06.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b61b7372b54771c971dc"
+  },
+  "title": "The Dark Knight",
+  "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20trailer",
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "rating": {
+    "average": 8.519,
+    "count": 33793
+  },
+  "duration": "2h 32m",
+  "releaseDate": "2008-07-16",
+  "status": "Released",
+  "countries": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "budget": "$185,000,000",
+  "revenue": "$1,004,558,444",
+  "tagline": "Welcome to a world without rules.",
+  "productionCompanies": [
+    "Warner Bros. Pictures",
+    "Legendary Pictures",
+    "Syncopy",
+    "DC"
+  ],
+  "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+  "createdAt": {
+    "$date": "2025-05-05T12:59:07.184Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:59:07.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b61b7372b54771c971de"
+  },
+  "title": "Dilwale Dulhania Le Jayenge",
+  "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Dilwale%20Dulhania%20Le%20Jayenge%20trailer",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 4484
+  },
+  "duration": "3h 10m",
+  "releaseDate": "1995-10-20",
+  "status": "Released",
+  "countries": [
+    "India"
+  ],
+  "budget": "$13,200,000",
+  "revenue": "$100,000,000",
+  "tagline": "Come… Fall In love, All Over Again…",
+  "productionCompanies": [
+    "Yash Raj Films"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T12:59:07.431Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:59:07.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b61b7372b54771c971e0"
+  },
+  "title": "The Green Mile",
+  "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Green%20Mile%20trailer",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.504,
+    "count": 18060
+  },
+  "duration": "3h 9m",
+  "releaseDate": "1999-12-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$60,000,000",
+  "revenue": "$286,801,374",
+  "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+  "productionCompanies": [
+    "Castle Rock Entertainment",
+    "Darkwoods Productions"
+  ],
+  "homepage": "http://thegreenmile.warnerbros.com/",
+  "createdAt": {
+    "$date": "2025-05-05T12:59:07.675Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:59:07.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b61b7372b54771c971e2"
+  },
+  "title": "Parasite",
+  "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Parasite%20trailer",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 19003
+  },
+  "duration": "2h 13m",
+  "releaseDate": "2019-05-30",
+  "status": "Released",
+  "countries": [
+    "South Korea"
+  ],
+  "budget": "$11,363,000",
+  "revenue": "$257,591,776",
+  "tagline": "Act like you own the place.",
+  "productionCompanies": [
+    "Barunson E&A"
+  ],
+  "homepage": "https://www.parasite-movie.com/",
+  "createdAt": {
+    "$date": "2025-05-05T12:59:07.928Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T12:59:07.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b742745cddf0a2b406cd"
+  },
+  "title": "The Shawshank Redemption",
+  "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.7,
+    "count": 28235
+  },
+  "duration": "2h 22m",
+  "releaseDate": "1994-09-23",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$25,000,000",
+  "revenue": "$28,341,469",
+  "tagline": "Fear can hold you prisoner. Hope can set you free.",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T13:04:02.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:04:02.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b742745cddf0a2b406cf"
+  },
+  "title": "The Godfather",
+  "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.686,
+    "count": 21407
+  },
+  "duration": "2h 55m",
+  "releaseDate": "1972-03-14",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$6,000,000",
+  "revenue": "$245,066,411",
+  "tagline": "An offer you can't refuse.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "Alfran Productions"
+  ],
+  "homepage": "http://www.thegodfather.com/",
+  "createdAt": {
+    "$date": "2025-05-05T13:04:02.269Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:04:02.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b742745cddf0a2b406d1"
+  },
+  "title": "The Godfather Part II",
+  "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.571,
+    "count": 12929
+  },
+  "duration": "3h 22m",
+  "releaseDate": "1974-12-20",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$13,000,000",
+  "revenue": "$102,600,000",
+  "tagline": "The rise and fall of the Corleone empire.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company",
+    "American Zoetrope"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T13:04:02.316Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:04:02.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b742745cddf0a2b406d3"
+  },
+  "title": "Schindler's List",
+  "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Schindler's%20List%20trailer",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "rating": {
+    "average": 8.564,
+    "count": 16405
+  },
+  "duration": "3h 15m",
+  "releaseDate": "1993-12-15",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$22,000,000",
+  "revenue": "$321,365,567",
+  "tagline": "Whoever saves one life, saves the world entire.",
+  "productionCompanies": [
+    "Amblin Entertainment"
+  ],
+  "homepage": "http://www.schindlerslist.com/",
+  "createdAt": {
+    "$date": "2025-05-05T13:04:02.366Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:04:02.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b742745cddf0a2b406d5"
+  },
+  "title": "12 Angry Men",
+  "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=12%20Angry%20Men%20trailer",
+  "genres": [
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.548,
+    "count": 9109
+  },
+  "duration": "1h 37m",
+  "releaseDate": "1957-04-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$397,751",
+  "revenue": "$4,360,000",
+  "tagline": "Life is in their hands — Death is on their minds!",
+  "productionCompanies": [
+    "United Artists",
+    "Orion-Nova Productions"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T13:04:02.415Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:04:02.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b742745cddf0a2b406d7"
+  },
+  "title": "Spirited Away",
+  "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Spirited%20Away%20trailer",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 17101
+  },
+  "duration": "2h 5m",
+  "releaseDate": "2001-07-20",
+  "status": "Released",
+  "countries": [
+    "Japan"
+  ],
+  "budget": "$19,000,000",
+  "revenue": "$274,925,095",
+  "tagline": "On the other side of the tunnel was a mysterious town.",
+  "productionCompanies": [
+    "Studio Ghibli"
+  ],
+  "homepage": "http://movies.disney.com/spirited-away",
+  "createdAt": {
+    "$date": "2025-05-05T13:04:02.465Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:04:02.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b742745cddf0a2b406d9"
+  },
+  "title": "The Dark Knight",
+  "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20trailer",
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "rating": {
+    "average": 8.519,
+    "count": 33793
+  },
+  "duration": "2h 32m",
+  "releaseDate": "2008-07-16",
+  "status": "Released",
+  "countries": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "budget": "$185,000,000",
+  "revenue": "$1,004,558,444",
+  "tagline": "Welcome to a world without rules.",
+  "productionCompanies": [
+    "Warner Bros. Pictures",
+    "Legendary Pictures",
+    "Syncopy",
+    "DC"
+  ],
+  "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+  "createdAt": {
+    "$date": "2025-05-05T13:04:02.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:04:02.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b742745cddf0a2b406db"
+  },
+  "title": "Dilwale Dulhania Le Jayenge",
+  "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Dilwale%20Dulhania%20Le%20Jayenge%20trailer",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 4484
+  },
+  "duration": "3h 10m",
+  "releaseDate": "1995-10-20",
+  "status": "Released",
+  "countries": [
+    "India"
+  ],
+  "budget": "$13,200,000",
+  "revenue": "$100,000,000",
+  "tagline": "Come… Fall In love, All Over Again…",
+  "productionCompanies": [
+    "Yash Raj Films"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T13:04:02.567Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:04:02.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b742745cddf0a2b406dd"
+  },
+  "title": "The Green Mile",
+  "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Green%20Mile%20trailer",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.504,
+    "count": 18060
+  },
+  "duration": "3h 9m",
+  "releaseDate": "1999-12-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$60,000,000",
+  "revenue": "$286,801,374",
+  "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+  "productionCompanies": [
+    "Castle Rock Entertainment",
+    "Darkwoods Productions"
+  ],
+  "homepage": "http://thegreenmile.warnerbros.com/",
+  "createdAt": {
+    "$date": "2025-05-05T13:04:02.614Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:04:02.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b742745cddf0a2b406df"
+  },
+  "title": "Parasite",
+  "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Parasite%20trailer",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 19003
+  },
+  "duration": "2h 13m",
+  "releaseDate": "2019-05-30",
+  "status": "Released",
+  "countries": [
+    "South Korea"
+  ],
+  "budget": "$11,363,000",
+  "revenue": "$257,591,776",
+  "tagline": "Act like you own the place.",
+  "productionCompanies": [
+    "Barunson E&A"
+  ],
+  "homepage": "https://www.parasite-movie.com/",
+  "createdAt": {
+    "$date": "2025-05-05T13:04:02.669Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:04:02.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b84ee2d80fc8294c1151"
+  },
+  "title": "The Shawshank Redemption",
+  "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.7,
+    "count": 28235
+  },
+  "duration": "2h 22m",
+  "releaseDate": "1994-09-23",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$25,000,000",
+  "revenue": "$28,341,469",
+  "tagline": "Fear can hold you prisoner. Hope can set you free.",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T13:08:30.712Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:08:30.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b84ee2d80fc8294c1153"
+  },
+  "title": "The Godfather",
+  "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.686,
+    "count": 21407
+  },
+  "duration": "2h 55m",
+  "releaseDate": "1972-03-14",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$6,000,000",
+  "revenue": "$245,066,411",
+  "tagline": "An offer you can't refuse.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "Alfran Productions"
+  ],
+  "homepage": "http://www.thegodfather.com/",
+  "createdAt": {
+    "$date": "2025-05-05T13:08:30.754Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:08:30.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b84ee2d80fc8294c1155"
+  },
+  "title": "The Godfather Part II",
+  "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.571,
+    "count": 12929
+  },
+  "duration": "3h 22m",
+  "releaseDate": "1974-12-20",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$13,000,000",
+  "revenue": "$102,600,000",
+  "tagline": "The rise and fall of the Corleone empire.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company",
+    "American Zoetrope"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T13:08:30.789Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:08:30.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b84ee2d80fc8294c1157"
+  },
+  "title": "Schindler's List",
+  "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Schindler's%20List%20trailer",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "rating": {
+    "average": 8.564,
+    "count": 16405
+  },
+  "duration": "3h 15m",
+  "releaseDate": "1993-12-15",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$22,000,000",
+  "revenue": "$321,365,567",
+  "tagline": "Whoever saves one life, saves the world entire.",
+  "productionCompanies": [
+    "Amblin Entertainment"
+  ],
+  "homepage": "http://www.schindlerslist.com/",
+  "createdAt": {
+    "$date": "2025-05-05T13:08:30.825Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:08:30.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b84ee2d80fc8294c1159"
+  },
+  "title": "12 Angry Men",
+  "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=12%20Angry%20Men%20trailer",
+  "genres": [
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.548,
+    "count": 9109
+  },
+  "duration": "1h 37m",
+  "releaseDate": "1957-04-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$397,751",
+  "revenue": "$4,360,000",
+  "tagline": "Life is in their hands — Death is on their minds!",
+  "productionCompanies": [
+    "United Artists",
+    "Orion-Nova Productions"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T13:08:30.865Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:08:30.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b84ee2d80fc8294c115b"
+  },
+  "title": "Spirited Away",
+  "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Spirited%20Away%20trailer",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 17101
+  },
+  "duration": "2h 5m",
+  "releaseDate": "2001-07-20",
+  "status": "Released",
+  "countries": [
+    "Japan"
+  ],
+  "budget": "$19,000,000",
+  "revenue": "$274,925,095",
+  "tagline": "On the other side of the tunnel was a mysterious town.",
+  "productionCompanies": [
+    "Studio Ghibli"
+  ],
+  "homepage": "http://movies.disney.com/spirited-away",
+  "createdAt": {
+    "$date": "2025-05-05T13:08:30.897Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:08:30.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b84ee2d80fc8294c115d"
+  },
+  "title": "The Dark Knight",
+  "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20trailer",
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "rating": {
+    "average": 8.519,
+    "count": 33793
+  },
+  "duration": "2h 32m",
+  "releaseDate": "2008-07-16",
+  "status": "Released",
+  "countries": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "budget": "$185,000,000",
+  "revenue": "$1,004,558,444",
+  "tagline": "Welcome to a world without rules.",
+  "productionCompanies": [
+    "Warner Bros. Pictures",
+    "Legendary Pictures",
+    "Syncopy",
+    "DC"
+  ],
+  "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+  "createdAt": {
+    "$date": "2025-05-05T13:08:30.938Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:08:30.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b84ee2d80fc8294c115f"
+  },
+  "title": "Dilwale Dulhania Le Jayenge",
+  "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Dilwale%20Dulhania%20Le%20Jayenge%20trailer",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 4484
+  },
+  "duration": "3h 10m",
+  "releaseDate": "1995-10-20",
+  "status": "Released",
+  "countries": [
+    "India"
+  ],
+  "budget": "$13,200,000",
+  "revenue": "$100,000,000",
+  "tagline": "Come… Fall In love, All Over Again…",
+  "productionCompanies": [
+    "Yash Raj Films"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T13:08:30.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:08:30.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b84fe2d80fc8294c1161"
+  },
+  "title": "The Green Mile",
+  "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Green%20Mile%20trailer",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.504,
+    "count": 18060
+  },
+  "duration": "3h 9m",
+  "releaseDate": "1999-12-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$60,000,000",
+  "revenue": "$286,801,374",
+  "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+  "productionCompanies": [
+    "Castle Rock Entertainment",
+    "Darkwoods Productions"
+  ],
+  "homepage": "http://thegreenmile.warnerbros.com/",
+  "createdAt": {
+    "$date": "2025-05-05T13:08:31.016Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:08:31.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818b84fe2d80fc8294c1163"
+  },
+  "title": "Parasite",
+  "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Parasite%20trailer",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 19003
+  },
+  "duration": "2h 13m",
+  "releaseDate": "2019-05-30",
+  "status": "Released",
+  "countries": [
+    "South Korea"
+  ],
+  "budget": "$11,363,000",
+  "revenue": "$257,591,776",
+  "tagline": "Act like you own the place.",
+  "productionCompanies": [
+    "Barunson E&A"
+  ],
+  "homepage": "https://www.parasite-movie.com/",
+  "createdAt": {
+    "$date": "2025-05-05T13:08:31.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:08:31.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818bc060f685f364d91d9ab"
+  },
+  "title": "The Shawshank Redemption",
+  "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.7,
+    "count": 28235
+  },
+  "duration": "2h 22m",
+  "releaseDate": "1994-09-23",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$25,000,000",
+  "revenue": "$28,341,469",
+  "tagline": "Fear can hold you prisoner. Hope can set you free.",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T13:24:22.117Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:24:22.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818bc060f685f364d91d9ad"
+  },
+  "title": "The Godfather",
+  "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.686,
+    "count": 21406
+  },
+  "duration": "2h 55m",
+  "releaseDate": "1972-03-14",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$6,000,000",
+  "revenue": "$245,066,411",
+  "tagline": "An offer you can't refuse.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "Alfran Productions"
+  ],
+  "homepage": "http://www.thegodfather.com/",
+  "createdAt": {
+    "$date": "2025-05-05T13:24:22.356Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:24:22.356Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818bc060f685f364d91d9af"
+  },
+  "title": "The Godfather Part II",
+  "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.571,
+    "count": 12929
+  },
+  "duration": "3h 22m",
+  "releaseDate": "1974-12-20",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$13,000,000",
+  "revenue": "$102,600,000",
+  "tagline": "The rise and fall of the Corleone empire.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company",
+    "American Zoetrope"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T13:24:22.595Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:24:22.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818bc060f685f364d91d9b1"
+  },
+  "title": "Schindler's List",
+  "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Schindler's%20List%20trailer",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "rating": {
+    "average": 8.564,
+    "count": 16405
+  },
+  "duration": "3h 15m",
+  "releaseDate": "1993-12-15",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$22,000,000",
+  "revenue": "$321,365,567",
+  "tagline": "Whoever saves one life, saves the world entire.",
+  "productionCompanies": [
+    "Amblin Entertainment"
+  ],
+  "homepage": "http://www.schindlerslist.com/",
+  "createdAt": {
+    "$date": "2025-05-05T13:24:22.632Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:24:22.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818bc060f685f364d91d9b3"
+  },
+  "title": "12 Angry Men",
+  "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=12%20Angry%20Men%20trailer",
+  "genres": [
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.548,
+    "count": 9109
+  },
+  "duration": "1h 37m",
+  "releaseDate": "1957-04-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$397,751",
+  "revenue": "$4,360,000",
+  "tagline": "Life is in their hands — Death is on their minds!",
+  "productionCompanies": [
+    "United Artists",
+    "Orion-Nova Productions"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T13:24:22.676Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:24:22.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818bc060f685f364d91d9b5"
+  },
+  "title": "Spirited Away",
+  "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Spirited%20Away%20trailer",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 17101
+  },
+  "duration": "2h 5m",
+  "releaseDate": "2001-07-20",
+  "status": "Released",
+  "countries": [
+    "Japan"
+  ],
+  "budget": "$19,000,000",
+  "revenue": "$274,925,095",
+  "tagline": "On the other side of the tunnel was a mysterious town.",
+  "productionCompanies": [
+    "Studio Ghibli"
+  ],
+  "homepage": "http://movies.disney.com/spirited-away",
+  "createdAt": {
+    "$date": "2025-05-05T13:24:22.711Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:24:22.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818bc060f685f364d91d9b7"
+  },
+  "title": "The Dark Knight",
+  "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20trailer",
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "rating": {
+    "average": 8.519,
+    "count": 33793
+  },
+  "duration": "2h 32m",
+  "releaseDate": "2008-07-16",
+  "status": "Released",
+  "countries": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "budget": "$185,000,000",
+  "revenue": "$1,004,558,444",
+  "tagline": "Welcome to a world without rules.",
+  "productionCompanies": [
+    "Warner Bros. Pictures",
+    "Legendary Pictures",
+    "Syncopy",
+    "DC"
+  ],
+  "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+  "createdAt": {
+    "$date": "2025-05-05T13:24:22.744Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:24:22.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818bc060f685f364d91d9b9"
+  },
+  "title": "Dilwale Dulhania Le Jayenge",
+  "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Dilwale%20Dulhania%20Le%20Jayenge%20trailer",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 4484
+  },
+  "duration": "3h 10m",
+  "releaseDate": "1995-10-20",
+  "status": "Released",
+  "countries": [
+    "India"
+  ],
+  "budget": "$13,200,000",
+  "revenue": "$100,000,000",
+  "tagline": "Come… Fall In love, All Over Again…",
+  "productionCompanies": [
+    "Yash Raj Films"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-05T13:24:22.783Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:24:22.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818bc060f685f364d91d9bb"
+  },
+  "title": "The Green Mile",
+  "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Green%20Mile%20trailer",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.504,
+    "count": 18060
+  },
+  "duration": "3h 9m",
+  "releaseDate": "1999-12-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$60,000,000",
+  "revenue": "$286,801,374",
+  "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+  "productionCompanies": [
+    "Castle Rock Entertainment",
+    "Darkwoods Productions"
+  ],
+  "homepage": "http://thegreenmile.warnerbros.com/",
+  "createdAt": {
+    "$date": "2025-05-05T13:24:22.820Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:24:22.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818bc060f685f364d91d9bd"
+  },
+  "title": "Parasite",
+  "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Parasite%20trailer",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 19003
+  },
+  "duration": "2h 13m",
+  "releaseDate": "2019-05-30",
+  "status": "Released",
+  "countries": [
+    "South Korea"
+  ],
+  "budget": "$11,363,000",
+  "revenue": "$257,591,776",
+  "tagline": "Act like you own the place.",
+  "productionCompanies": [
+    "Barunson E&A"
+  ],
+  "homepage": "https://www.parasite-movie.com/",
+  "createdAt": {
+    "$date": "2025-05-05T13:24:22.854Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T13:24:22.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c1c3e1122ed980efb0ccc"
+  },
+  "title": "The Shawshank Redemption",
+  "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.71,
+    "count": 28247
+  },
+  "duration": "2h 22m",
+  "releaseDate": "1994-09-23",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$25,000,000",
+  "revenue": "$28,341,469",
+  "tagline": "Fear can hold you prisoner. Hope can set you free.",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T02:51:42.536Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T02:51:42.536Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c1c3e1122ed980efb0cce"
+  },
+  "title": "The Godfather",
+  "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.687,
+    "count": 21411
+  },
+  "duration": "2h 55m",
+  "releaseDate": "1972-03-14",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$6,000,000",
+  "revenue": "$245,066,411",
+  "tagline": "An offer you can't refuse.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "Alfran Productions"
+  ],
+  "homepage": "http://www.thegodfather.com/",
+  "createdAt": {
+    "$date": "2025-05-08T02:51:42.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T02:51:42.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c1c3e1122ed980efb0cd0"
+  },
+  "title": "The Godfather Part II",
+  "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.571,
+    "count": 12933
+  },
+  "duration": "3h 22m",
+  "releaseDate": "1974-12-20",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$13,000,000",
+  "revenue": "$102,600,000",
+  "tagline": "The rise and fall of the Corleone empire.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company",
+    "American Zoetrope"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T02:51:42.992Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T02:51:42.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c1c3f1122ed980efb0cd2"
+  },
+  "title": "Schindler's List",
+  "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Schindler's%20List%20trailer",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "rating": {
+    "average": 8.565,
+    "count": 16411
+  },
+  "duration": "3h 15m",
+  "releaseDate": "1993-12-15",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$22,000,000",
+  "revenue": "$321,365,567",
+  "tagline": "Whoever saves one life, saves the world entire.",
+  "productionCompanies": [
+    "Amblin Entertainment"
+  ],
+  "homepage": "http://www.schindlerslist.com/",
+  "createdAt": {
+    "$date": "2025-05-08T02:51:43.227Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T02:51:43.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c1c3f1122ed980efb0cd4"
+  },
+  "title": "12 Angry Men",
+  "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=12%20Angry%20Men%20trailer",
+  "genres": [
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.548,
+    "count": 9109
+  },
+  "duration": "1h 37m",
+  "releaseDate": "1957-04-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$397,751",
+  "revenue": "$4,360,000",
+  "tagline": "Life is in their hands — Death is on their minds!",
+  "productionCompanies": [
+    "United Artists",
+    "Orion-Nova Productions"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T02:51:43.460Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T02:51:43.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c1c3f1122ed980efb0cd6"
+  },
+  "title": "Spirited Away",
+  "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Spirited%20Away%20trailer",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "rating": {
+    "average": 8.536,
+    "count": 17113
+  },
+  "duration": "2h 5m",
+  "releaseDate": "2001-07-20",
+  "status": "Released",
+  "countries": [
+    "Japan"
+  ],
+  "budget": "$19,000,000",
+  "revenue": "$274,925,095",
+  "tagline": "On the other side of the tunnel was a mysterious town.",
+  "productionCompanies": [
+    "Studio Ghibli"
+  ],
+  "homepage": "http://movies.disney.com/spirited-away",
+  "createdAt": {
+    "$date": "2025-05-08T02:51:43.682Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T02:51:43.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c1c3f1122ed980efb0cd8"
+  },
+  "title": "The Dark Knight",
+  "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20trailer",
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "rating": {
+    "average": 8.52,
+    "count": 33801
+  },
+  "duration": "2h 32m",
+  "releaseDate": "2008-07-16",
+  "status": "Released",
+  "countries": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "budget": "$185,000,000",
+  "revenue": "$1,004,558,444",
+  "tagline": "Welcome to a world without rules.",
+  "productionCompanies": [
+    "Warner Bros. Pictures",
+    "Legendary Pictures",
+    "Syncopy",
+    "DC"
+  ],
+  "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+  "createdAt": {
+    "$date": "2025-05-08T02:51:43.898Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T02:51:43.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c1c401122ed980efb0cda"
+  },
+  "title": "Dilwale Dulhania Le Jayenge",
+  "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Dilwale%20Dulhania%20Le%20Jayenge%20trailer",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 4484
+  },
+  "duration": "3h 10m",
+  "releaseDate": "1995-10-20",
+  "status": "Released",
+  "countries": [
+    "India"
+  ],
+  "budget": "$13,200,000",
+  "revenue": "$100,000,000",
+  "tagline": "Come… Fall In love, All Over Again…",
+  "productionCompanies": [
+    "Yash Raj Films"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T02:51:44.137Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T02:51:44.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c1c401122ed980efb0cdc"
+  },
+  "title": "The Green Mile",
+  "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Green%20Mile%20trailer",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.504,
+    "count": 18066
+  },
+  "duration": "3h 9m",
+  "releaseDate": "1999-12-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$60,000,000",
+  "revenue": "$286,801,374",
+  "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+  "productionCompanies": [
+    "Castle Rock Entertainment",
+    "Darkwoods Productions"
+  ],
+  "homepage": "http://thegreenmile.warnerbros.com/",
+  "createdAt": {
+    "$date": "2025-05-08T02:51:44.369Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T02:51:44.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c1c401122ed980efb0cde"
+  },
+  "title": "Parasite",
+  "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Parasite%20trailer",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.499,
+    "count": 19008
+  },
+  "duration": "2h 13m",
+  "releaseDate": "2019-05-30",
+  "status": "Released",
+  "countries": [
+    "South Korea"
+  ],
+  "budget": "$11,363,000",
+  "revenue": "$257,591,776",
+  "tagline": "Act like you own the place.",
+  "productionCompanies": [
+    "Barunson E&A"
+  ],
+  "homepage": "https://www.parasite-movie.com/",
+  "createdAt": {
+    "$date": "2025-05-08T02:51:44.590Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T02:51:44.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c21ed6326fdfe766d6776"
+  },
+  "title": "The Shawshank Redemption",
+  "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.71,
+    "count": 28247
+  },
+  "duration": "2h 22m",
+  "releaseDate": "1994-09-23",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$25,000,000",
+  "revenue": "$28,341,469",
+  "tagline": "Fear can hold you prisoner. Hope can set you free.",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T03:15:57.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:15:57.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c21ed6326fdfe766d6778"
+  },
+  "title": "The Godfather",
+  "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.687,
+    "count": 21411
+  },
+  "duration": "2h 55m",
+  "releaseDate": "1972-03-14",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$6,000,000",
+  "revenue": "$245,066,411",
+  "tagline": "An offer you can't refuse.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "Alfran Productions"
+  ],
+  "homepage": "http://www.thegodfather.com/",
+  "createdAt": {
+    "$date": "2025-05-08T03:15:57.974Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:15:57.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c21ee6326fdfe766d677a"
+  },
+  "title": "The Godfather Part II",
+  "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.571,
+    "count": 12933
+  },
+  "duration": "3h 22m",
+  "releaseDate": "1974-12-20",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$13,000,000",
+  "revenue": "$102,600,000",
+  "tagline": "The rise and fall of the Corleone empire.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company",
+    "American Zoetrope"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T03:15:58.110Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:15:58.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c21ee6326fdfe766d677c"
+  },
+  "title": "Schindler's List",
+  "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Schindler's%20List%20trailer",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "rating": {
+    "average": 8.565,
+    "count": 16412
+  },
+  "duration": "3h 15m",
+  "releaseDate": "1993-12-15",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$22,000,000",
+  "revenue": "$321,365,567",
+  "tagline": "Whoever saves one life, saves the world entire.",
+  "productionCompanies": [
+    "Amblin Entertainment"
+  ],
+  "homepage": "http://www.schindlerslist.com/",
+  "createdAt": {
+    "$date": "2025-05-08T03:15:58.423Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:15:58.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c21ee6326fdfe766d677e"
+  },
+  "title": "12 Angry Men",
+  "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=12%20Angry%20Men%20trailer",
+  "genres": [
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.548,
+    "count": 9109
+  },
+  "duration": "1h 37m",
+  "releaseDate": "1957-04-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$397,751",
+  "revenue": "$4,360,000",
+  "tagline": "Life is in their hands — Death is on their minds!",
+  "productionCompanies": [
+    "United Artists",
+    "Orion-Nova Productions"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T03:15:58.565Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:15:58.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c21ee6326fdfe766d6780"
+  },
+  "title": "Spirited Away",
+  "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Spirited%20Away%20trailer",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "rating": {
+    "average": 8.536,
+    "count": 17113
+  },
+  "duration": "2h 5m",
+  "releaseDate": "2001-07-20",
+  "status": "Released",
+  "countries": [
+    "Japan"
+  ],
+  "budget": "$19,000,000",
+  "revenue": "$274,925,095",
+  "tagline": "On the other side of the tunnel was a mysterious town.",
+  "productionCompanies": [
+    "Studio Ghibli"
+  ],
+  "homepage": "http://movies.disney.com/spirited-away",
+  "createdAt": {
+    "$date": "2025-05-08T03:15:58.883Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:15:58.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c21ef6326fdfe766d6782"
+  },
+  "title": "The Dark Knight",
+  "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20trailer",
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "rating": {
+    "average": 8.52,
+    "count": 33801
+  },
+  "duration": "2h 32m",
+  "releaseDate": "2008-07-16",
+  "status": "Released",
+  "countries": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "budget": "$185,000,000",
+  "revenue": "$1,004,558,444",
+  "tagline": "Welcome to a world without rules.",
+  "productionCompanies": [
+    "Warner Bros. Pictures",
+    "Legendary Pictures",
+    "Syncopy",
+    "DC"
+  ],
+  "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+  "createdAt": {
+    "$date": "2025-05-08T03:15:59.022Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:15:59.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c21ef6326fdfe766d6784"
+  },
+  "title": "Dilwale Dulhania Le Jayenge",
+  "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Dilwale%20Dulhania%20Le%20Jayenge%20trailer",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 4484
+  },
+  "duration": "3h 10m",
+  "releaseDate": "1995-10-20",
+  "status": "Released",
+  "countries": [
+    "India"
+  ],
+  "budget": "$13,200,000",
+  "revenue": "$100,000,000",
+  "tagline": "Come… Fall In love, All Over Again…",
+  "productionCompanies": [
+    "Yash Raj Films"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T03:15:59.161Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:15:59.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c21ef6326fdfe766d6786"
+  },
+  "title": "The Green Mile",
+  "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Green%20Mile%20trailer",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.504,
+    "count": 18066
+  },
+  "duration": "3h 9m",
+  "releaseDate": "1999-12-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$60,000,000",
+  "revenue": "$286,801,374",
+  "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+  "productionCompanies": [
+    "Castle Rock Entertainment",
+    "Darkwoods Productions"
+  ],
+  "homepage": "http://thegreenmile.warnerbros.com/",
+  "createdAt": {
+    "$date": "2025-05-08T03:15:59.311Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:15:59.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c21ef6326fdfe766d6788"
+  },
+  "title": "Parasite",
+  "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Parasite%20trailer",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.499,
+    "count": 19008
+  },
+  "duration": "2h 13m",
+  "releaseDate": "2019-05-30",
+  "status": "Released",
+  "countries": [
+    "South Korea"
+  ],
+  "budget": "$11,363,000",
+  "revenue": "$257,591,776",
+  "tagline": "Act like you own the place.",
+  "productionCompanies": [
+    "Barunson E&A"
+  ],
+  "homepage": "https://www.parasite-movie.com/",
+  "createdAt": {
+    "$date": "2025-05-08T03:15:59.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:15:59.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c28a0a74076782e3de5d7"
+  },
+  "title": "The Shawshank Redemption",
+  "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.71,
+    "count": 28247
+  },
+  "duration": "2h 22m",
+  "releaseDate": "1994-09-23",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$25,000,000",
+  "revenue": "$28,341,469",
+  "tagline": "Fear can hold you prisoner. Hope can set you free.",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T03:44:32.959Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:44:32.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c28a1a74076782e3de5d9"
+  },
+  "title": "The Godfather",
+  "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.687,
+    "count": 21411
+  },
+  "duration": "2h 55m",
+  "releaseDate": "1972-03-14",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$6,000,000",
+  "revenue": "$245,066,411",
+  "tagline": "An offer you can't refuse.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "Alfran Productions"
+  ],
+  "homepage": "http://www.thegodfather.com/",
+  "createdAt": {
+    "$date": "2025-05-08T03:44:33.278Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:44:33.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c28a1a74076782e3de5db"
+  },
+  "title": "The Godfather Part II",
+  "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.571,
+    "count": 12933
+  },
+  "duration": "3h 22m",
+  "releaseDate": "1974-12-20",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$13,000,000",
+  "revenue": "$102,600,000",
+  "tagline": "The rise and fall of the Corleone empire.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company",
+    "American Zoetrope"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T03:44:33.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:44:33.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c28a1a74076782e3de5dd"
+  },
+  "title": "Schindler's List",
+  "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Schindler's%20List%20trailer",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "rating": {
+    "average": 8.565,
+    "count": 16412
+  },
+  "duration": "3h 15m",
+  "releaseDate": "1993-12-15",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$22,000,000",
+  "revenue": "$321,365,567",
+  "tagline": "Whoever saves one life, saves the world entire.",
+  "productionCompanies": [
+    "Amblin Entertainment"
+  ],
+  "homepage": "http://www.schindlerslist.com/",
+  "createdAt": {
+    "$date": "2025-05-08T03:44:33.887Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:44:33.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c28a2a74076782e3de5df"
+  },
+  "title": "12 Angry Men",
+  "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=12%20Angry%20Men%20trailer",
+  "genres": [
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.548,
+    "count": 9109
+  },
+  "duration": "1h 37m",
+  "releaseDate": "1957-04-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$397,751",
+  "revenue": "$4,360,000",
+  "tagline": "Life is in their hands — Death is on their minds!",
+  "productionCompanies": [
+    "United Artists",
+    "Orion-Nova Productions"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T03:44:34.194Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:44:34.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c28a2a74076782e3de5e1"
+  },
+  "title": "Spirited Away",
+  "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Spirited%20Away%20trailer",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "rating": {
+    "average": 8.536,
+    "count": 17113
+  },
+  "duration": "2h 5m",
+  "releaseDate": "2001-07-20",
+  "status": "Released",
+  "countries": [
+    "Japan"
+  ],
+  "budget": "$19,000,000",
+  "revenue": "$274,925,095",
+  "tagline": "On the other side of the tunnel was a mysterious town.",
+  "productionCompanies": [
+    "Studio Ghibli"
+  ],
+  "homepage": "http://movies.disney.com/spirited-away",
+  "createdAt": {
+    "$date": "2025-05-08T03:44:34.490Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:44:34.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c28a2a74076782e3de5e3"
+  },
+  "title": "The Dark Knight",
+  "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20trailer",
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "rating": {
+    "average": 8.52,
+    "count": 33801
+  },
+  "duration": "2h 32m",
+  "releaseDate": "2008-07-16",
+  "status": "Released",
+  "countries": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "budget": "$185,000,000",
+  "revenue": "$1,004,558,444",
+  "tagline": "Welcome to a world without rules.",
+  "productionCompanies": [
+    "Warner Bros. Pictures",
+    "Legendary Pictures",
+    "Syncopy",
+    "DC"
+  ],
+  "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+  "createdAt": {
+    "$date": "2025-05-08T03:44:34.790Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:44:34.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c28a3a74076782e3de5e5"
+  },
+  "title": "Dilwale Dulhania Le Jayenge",
+  "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Dilwale%20Dulhania%20Le%20Jayenge%20trailer",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 4484
+  },
+  "duration": "3h 10m",
+  "releaseDate": "1995-10-20",
+  "status": "Released",
+  "countries": [
+    "India"
+  ],
+  "budget": "$13,200,000",
+  "revenue": "$100,000,000",
+  "tagline": "Come… Fall In love, All Over Again…",
+  "productionCompanies": [
+    "Yash Raj Films"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T03:44:35.094Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:44:35.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c28a3a74076782e3de5e7"
+  },
+  "title": "The Green Mile",
+  "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Green%20Mile%20trailer",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.504,
+    "count": 18066
+  },
+  "duration": "3h 9m",
+  "releaseDate": "1999-12-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$60,000,000",
+  "revenue": "$286,801,374",
+  "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+  "productionCompanies": [
+    "Castle Rock Entertainment",
+    "Darkwoods Productions"
+  ],
+  "homepage": "http://thegreenmile.warnerbros.com/",
+  "createdAt": {
+    "$date": "2025-05-08T03:44:35.408Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:44:35.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c28a3a74076782e3de5e9"
+  },
+  "title": "Parasite",
+  "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Parasite%20trailer",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.499,
+    "count": 19008
+  },
+  "duration": "2h 13m",
+  "releaseDate": "2019-05-30",
+  "status": "Released",
+  "countries": [
+    "South Korea"
+  ],
+  "budget": "$11,363,000",
+  "revenue": "$257,591,776",
+  "tagline": "Act like you own the place.",
+  "productionCompanies": [
+    "Barunson E&A"
+  ],
+  "homepage": "https://www.parasite-movie.com/",
+  "createdAt": {
+    "$date": "2025-05-08T03:44:35.732Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:44:35.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c294c4022a85515fc5318"
+  },
+  "title": "The Shawshank Redemption",
+  "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.71,
+    "count": 28248
+  },
+  "duration": "2h 22m",
+  "releaseDate": "1994-09-23",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$25,000,000",
+  "revenue": "$28,341,469",
+  "tagline": "Fear can hold you prisoner. Hope can set you free.",
+  "productionCompanies": [
+    "Castle Rock Entertainment"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T03:47:24.793Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:47:24.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c294c4022a85515fc531a"
+  },
+  "title": "The Godfather",
+  "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.687,
+    "count": 21411
+  },
+  "duration": "2h 55m",
+  "releaseDate": "1972-03-14",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$6,000,000",
+  "revenue": "$245,066,411",
+  "tagline": "An offer you can't refuse.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "Alfran Productions"
+  ],
+  "homepage": "http://www.thegodfather.com/",
+  "createdAt": {
+    "$date": "2025-05-08T03:47:24.938Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:47:24.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c294d4022a85515fc531c"
+  },
+  "title": "The Godfather Part II",
+  "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Godfather%20Part%20II%20trailer",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.571,
+    "count": 12933
+  },
+  "duration": "3h 22m",
+  "releaseDate": "1974-12-20",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$13,000,000",
+  "revenue": "$102,600,000",
+  "tagline": "The rise and fall of the Corleone empire.",
+  "productionCompanies": [
+    "Paramount Pictures",
+    "The Coppola Company",
+    "American Zoetrope"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T03:47:25.081Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:47:25.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c294d4022a85515fc531e"
+  },
+  "title": "Schindler's List",
+  "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Schindler's%20List%20trailer",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "rating": {
+    "average": 8.565,
+    "count": 16412
+  },
+  "duration": "3h 15m",
+  "releaseDate": "1993-12-15",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$22,000,000",
+  "revenue": "$321,365,567",
+  "tagline": "Whoever saves one life, saves the world entire.",
+  "productionCompanies": [
+    "Amblin Entertainment"
+  ],
+  "homepage": "http://www.schindlerslist.com/",
+  "createdAt": {
+    "$date": "2025-05-08T03:47:25.222Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:47:25.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c294d4022a85515fc5320"
+  },
+  "title": "12 Angry Men",
+  "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=12%20Angry%20Men%20trailer",
+  "genres": [
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.548,
+    "count": 9109
+  },
+  "duration": "1h 37m",
+  "releaseDate": "1957-04-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$397,751",
+  "revenue": "$4,360,000",
+  "tagline": "Life is in their hands — Death is on their minds!",
+  "productionCompanies": [
+    "United Artists",
+    "Orion-Nova Productions"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T03:47:25.367Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:47:25.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c29514022a85515fc5322"
+  },
+  "title": "Spirited Away",
+  "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Spirited%20Away%20trailer",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "rating": {
+    "average": 8.536,
+    "count": 17113
+  },
+  "duration": "2h 5m",
+  "releaseDate": "2001-07-20",
+  "status": "Released",
+  "countries": [
+    "Japan"
+  ],
+  "budget": "$19,000,000",
+  "revenue": "$274,925,095",
+  "tagline": "On the other side of the tunnel was a mysterious town.",
+  "productionCompanies": [
+    "Studio Ghibli"
+  ],
+  "homepage": "http://movies.disney.com/spirited-away",
+  "createdAt": {
+    "$date": "2025-05-08T03:47:29.208Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:47:29.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c29514022a85515fc5324"
+  },
+  "title": "The Dark Knight",
+  "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Dark%20Knight%20trailer",
+  "genres": [
+    "Drama",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "rating": {
+    "average": 8.52,
+    "count": 33801
+  },
+  "duration": "2h 32m",
+  "releaseDate": "2008-07-16",
+  "status": "Released",
+  "countries": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "budget": "$185,000,000",
+  "revenue": "$1,004,558,444",
+  "tagline": "Welcome to a world without rules.",
+  "productionCompanies": [
+    "Warner Bros. Pictures",
+    "Legendary Pictures",
+    "Syncopy",
+    "DC"
+  ],
+  "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+  "createdAt": {
+    "$date": "2025-05-08T03:47:29.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:47:29.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c29514022a85515fc5326"
+  },
+  "title": "Dilwale Dulhania Le Jayenge",
+  "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/rfcy6Gd3PbFIqwZX5U8xnbv7jOc.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Dilwale%20Dulhania%20Le%20Jayenge%20trailer",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "rating": {
+    "average": 8.5,
+    "count": 4484
+  },
+  "duration": "3h 10m",
+  "releaseDate": "1995-10-20",
+  "status": "Released",
+  "countries": [
+    "India"
+  ],
+  "budget": "$13,200,000",
+  "revenue": "$100,000,000",
+  "tagline": "Come… Fall In love, All Over Again…",
+  "productionCompanies": [
+    "Yash Raj Films"
+  ],
+  "homepage": "",
+  "createdAt": {
+    "$date": "2025-05-08T03:47:29.523Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:47:29.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c29514022a85515fc5328"
+  },
+  "title": "The Green Mile",
+  "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=The%20Green%20Mile%20trailer",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "rating": {
+    "average": 8.504,
+    "count": 18066
+  },
+  "duration": "3h 9m",
+  "releaseDate": "1999-12-10",
+  "status": "Released",
+  "countries": [
+    "United States of America"
+  ],
+  "budget": "$60,000,000",
+  "revenue": "$286,801,374",
+  "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+  "productionCompanies": [
+    "Castle Rock Entertainment",
+    "Darkwoods Productions"
+  ],
+  "homepage": "http://thegreenmile.warnerbros.com/",
+  "createdAt": {
+    "$date": "2025-05-08T03:47:29.669Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:47:29.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681c29514022a85515fc532a"
+  },
+  "title": "Parasite",
+  "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+  "posterUrl": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "trailerUrl": "https://www.youtube.com/results?search_query=Parasite%20trailer",
+  "genres": [
+    "Comedy",
+    "Thriller",
+    "Drama"
+  ],
+  "rating": {
+    "average": 8.499,
+    "count": 19008
+  },
+  "duration": "2h 13m",
+  "releaseDate": "2019-05-30",
+  "status": "Released",
+  "countries": [
+    "South Korea"
+  ],
+  "budget": "$11,363,000",
+  "revenue": "$257,591,776",
+  "tagline": "Act like you own the place.",
+  "productionCompanies": [
+    "Barunson E&A"
+  ],
+  "homepage": "https://www.parasite-movie.com/",
+  "createdAt": {
+    "$date": "2025-05-08T03:47:29.820Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T03:47:29.820Z"
+  },
+  "__v": 0
+}]
