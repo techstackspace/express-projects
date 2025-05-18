@@ -279,18 +279,32 @@ This script is located at:
 
 ```
 .
-├── src/
-│   ├── models/
-│   │   └── Movie.ts
-│   ├── routes/
-│   │   └── movies.ts
-│   ├── scripts/
-│   │   └── seedMovies.ts
-│   ├── index.ts
-├── .env
-├── tsconfig.json
-├── bun.lockb / package-lock.json
+├── bun.lock
+├── config
+│   ├── linux
+│   │   └── install.sh
+│   ├── macOS
+│   │   └── Brewfile
+│   └── windows
+│       └── choco-packages.config
+├── movies-db.movies.json
+├── package.json
 ├── README.md
+├── scripts
+│   └── openShell.js
+├── src
+│   ├── index.ts
+│   ├── middleware
+│   │   └── auth.ts
+│   ├── models
+│   │   ├── Movie.ts
+│   │   └── User.ts
+│   ├── routes
+│   │   ├── movies.ts
+│   │   └── users.ts
+│   └── scripts
+│       └── seedMovies.ts
+└── tsconfig.json
 ```
 
 ---
@@ -488,7 +502,7 @@ Whether you've followed a tutorial, read the documentation, watched a video, or 
 
 [Submit Feedback Form](https://techstackspace.com/feedback)
 
-Your input helps shape better content for developers like you. Thank you!
+Your input helps shape better content for developers like you.
 
 ---
 
