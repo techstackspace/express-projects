@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import { Movie } from '../models/Movie';
-import { authenticate, AuthenticatedRequest } from '../models/middleware/auth';
+import { authenticate, AuthenticatedRequest } from '../middleware/auth';
 
 const router = Router();
 
