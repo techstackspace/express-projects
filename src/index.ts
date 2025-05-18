@@ -1,6 +1,7 @@
 import express, { Request, Response } from "express";
 import mongoose from "mongoose";
 import movieRoutes from "./routes/movies";
+import userRoutes from "./routes/users";
 
 const app = express();
 const PORT = Number(process.env.PORT) || 5000;
@@ -16,6 +17,7 @@ app.get("/", (_req: Request, res: Response) => {
 });
 
 app.use("/api/movies", movieRoutes);
+app.use("/api/users", userRoutes);
 
 // DB connection + server start
 mongoose

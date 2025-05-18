@@ -1,7 +1,68 @@
 import { Router } from 'express';
 import { Movie } from '../models/Movie';
+import { authenticate, AuthenticatedRequest } from '../models/middleware/auth';
 
 const router = Router();
+
+// ❤️ Like a movie
+router.post("/:id/like", authenticate as any, async (req: AuthenticatedRequest, res: any) => {
+  try {
+    const movieId = req.params.id;
+    const userId = req.userId;
+
+    const movie = await Movie.findById(movieId);
+    if (!movie) return res.status(404).json({ message: "Movie not found" });
+
+    // Check if the user has already liked the movie
+    if (movie.likes.includes(userId as any)) {
+      return res.status(400).json({ message: "You already liked this movie" });
+    }
+
+    // Add the user to the likes array
+    movie.likes.push(userId as any);
+    await movie.save();
+
+    res.json({ message: "Movie liked", totalLikes: movie.likes.length });
+  } catch (error) {
+    res.status(500).json({ message: "Failed to like movie", error });
+  }
+});
+
+// 👎 Dislike (Unlike) a movie
+router.post("/:id/dislike", authenticate as any, async (req: AuthenticatedRequest, res: any) => {
+  try {
+    const movieId = req.params.id;
+    const userId = req.userId;
+
+    const movie = await Movie.findById(movieId);
+    if (!movie) return res.status(404).json({ message: "Movie not found" });
+
+    // Check if the user has not liked the movie yet
+    if (!movie.likes.includes(userId as any)) {
+      return res.status(400).json({ message: "You haven't liked this movie" });
+    }
+
+    // Remove the user from the likes array
+    movie.likes = movie.likes.filter((id) => id.toString() !== userId);
+    await movie.save();
+
+    res.json({ message: "Movie unliked", totalLikes: movie.likes.length });
+  } catch (error) {
+    res.status(500).json({ message: "Failed to unlike movie", error });
+  }
+});
+
+// 📊 Get total likes for a movie
+router.get("/:id/likes", async (req: any, res: any) => {
+  try {
+    const movie = await Movie.findById(req.params.id);
+    if (!movie) return res.status(404).json({ message: "Movie not found" });
+
+    res.json({ totalLikes: movie.likes.length });
+  } catch (error) {
+    res.status(500).json({ message: "Failed to fetch movie likes", error });
+  }
+});
 
 // 🎬 GET /api/movies/genres
 router.get('/genres', async (_req, res) => {
