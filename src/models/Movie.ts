@@ -3,6 +3,7 @@ import { Schema, model, Document, Types } from "mongoose";
 interface IMovie extends Document {
   title: string;
   description?: string;
+  bookmarks: Types.ObjectId[];
   posterUrl?: string;
   trailerUrl?: string;
   genres: string[];
@@ -40,9 +41,10 @@ const movieSchema = new Schema<IMovie>(
     budget: String,
     revenue: String,
     tagline: String,
+    bookmarks: [{ type: Schema.Types.ObjectId, ref: "User" }],
     productionCompanies: [String],
     homepage: String,
-    likes: [{ type: Schema.Types.ObjectId, ref: "User" }], // Store user IDs who liked the movie
+    likes: [{ type: Schema.Types.ObjectId, ref: "User" }],
   },
   { timestamps: true }
 );

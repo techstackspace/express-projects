@@ -4,9 +4,9 @@ import movieRoutes from "./routes/movies";
 import userRoutes from "./routes/users";
 
 const app = express();
-const PORT = Number(process.env.PORT) || 5000;
+const PORT = Number(Bun.env.PORT) || 5000;
 const MONGO_URI =
-  process.env.MONGO_URI || "mongodb://localhost:27017/movies-db";
+  Bun.env.MONGO_URI || "mongodb://localhost:27017/movies-db";
 
 // Middleware
 app.use(express.json()); // Parse JSON bodies

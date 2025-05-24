@@ -3,14 +3,13 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "scripts": {
-    "start": "node --env-file=.env dist/index.js",
-    "dev": "node --watch --env-file=.env dist/index.js",
-    "build": "tsc",
-    "watch": "tsc --watch",
-    "seed": "node --env-file=.env dist/scripts/seedMovies.js",
-    "dev:seed": "concurrently \"npm run watch\" \"npm run seed\" \"npm run dev\"",
-    "open:shell": "node scripts/openShell.js",
-    "dev:all": "concurrently \"npm run watch\" \"npm run seed\" \"npm run dev\" \"npm run open:shell\""
+    "start": "bun src/index.ts",
+    "dev": "bun --watch src/index.ts",
+    "build": "bun build src/index.ts --outdir dist",
+    "seed": "bun dist/scripts/seedMovies.js",
+    "dev:seed": "bun run watch & bun run seed & bun run dev",
+    "open:shell": "bun scripts/openShell.js",
+    "dev:all": "bun run watch & bun run seed & bun run dev & bun run open:shell"
   },
   "keywords": [],
   "author": "",
@@ -25,11 +24,11 @@
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
+    "@types/bun": "^1.2.14",
     "@types/express": "^5.0.1",
     "@types/jsonwebtoken": "^9.0.9",
     "@types/mongoose": "^5.11.96",
     "@types/node": "^22.15.3",
-    "concurrently": "^9.1.2",
     "typescript": "^5.8.3"
   }
 }

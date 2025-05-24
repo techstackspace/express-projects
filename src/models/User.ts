@@ -3,19 +3,21 @@
 import { Schema, model, Document, Types } from "mongoose";
 import bcrypt from "bcrypt";
 
-interface IUser extends Document {
+export interface IUser extends Document {
   username: string;
   email: string;
   password: string;
   bookmarks: Types.ObjectId[];
   likes: Types.ObjectId[];
   watchHistory: Types.ObjectId[];
-  comparePassword: (password: string) => Promise<boolean>;
+  createdAt?: Date;
+  updatedAt?: Date;
+  comparePassword(candidatePassword: string): Promise<boolean>;
 }
 
 const userSchema = new Schema<IUser>(
   {
-    username: { type: String, required: true, unique: true },
+    username: { type: String, required: true },
     email: { type: String, required: true, unique: true },
     password: { type: String, required: true },
     bookmarks: [{ type: Schema.Types.ObjectId, ref: "Movie" }],
