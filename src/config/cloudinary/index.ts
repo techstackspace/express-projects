@@ -12,3 +12,11 @@ export const uploadToCloudinary = async (fileBuffer: Buffer, fileName: string) =
   });
   return result.secure_url;
 };
+
+export const deleteFromCloudinary = async (publicId: string) => {
+  try {
+    await cloudinary.uploader.destroy(`movieCollection/profile/${publicId}`);
+  } catch (error) {
+    console.error("Failed to delete image from Cloudinary:", error);
+  }
+};

@@ -3,7 +3,7 @@ import jwt from 'jsonwebtoken';
 import { User } from '../models/User';
 import { authenticate, AuthenticatedRequest } from '../middleware/auth';
 import { Movie } from '../models/Movie';
-import { upload, uploadToCloudinary } from '../config/cloudinary';
+import { deleteFromCloudinary, upload, uploadToCloudinary } from '../config/cloudinary';
 
 const router = Router();
 
@@ -265,6 +265,43 @@ router.patch(
       });
     } catch (error) {
       res.status(500).json({ message: 'Failed to update user', error });
+    }
+  }
+);
+
+router.delete(
+  '/me',
+  authenticate as any,
+  async (req: AuthenticatedRequest, res: any) => {
+    try {
+      const userId = req.userId;
+      const user = await User.findById(userId);
+
+      if (!user) return res.status(404).json({ message: 'User not found' });
+
+      // 1. Remove user ID from liked and bookmarked movies
+      await Movie.updateMany(
+        { likes: user._id },
+        { $pull: { likes: user._id } }
+      );
+      await Movie.updateMany(
+        { bookmarks: user._id },
+        { $pull: { bookmarks: user._id } }
+      );
+
+      // 2. Delete profile image from Cloudinary
+      if (user.profileImage) {
+        const segments = user.profileImage.split('/');
+        const publicId = segments[segments.length - 1].split('.')[0];
+        await deleteFromCloudinary(publicId);
+      }
+
+      // 3. Delete user from database
+      await User.findByIdAndDelete(userId);
+
+      res.json({ message: 'User account deleted successfully' });
+    } catch (error) {
+      res.status(500).json({ message: 'Failed to delete account', error });
     }
   }
 );
