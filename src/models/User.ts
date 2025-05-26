@@ -6,6 +6,7 @@ import bcrypt from "bcrypt";
 export interface IUser extends Document {
   username: string;
   email: string;
+  profileImage: string;
   password: string;
   bookmarks: Types.ObjectId[];
   likes: Types.ObjectId[];
@@ -19,6 +20,7 @@ const userSchema = new Schema<IUser>(
   {
     username: { type: String, required: true },
     email: { type: String, required: true, unique: true },
+    profileImage: { type: String },
     password: { type: String, required: true },
     bookmarks: [{ type: Schema.Types.ObjectId, ref: "Movie" }],
     likes: [{ type: Schema.Types.ObjectId, ref: "Movie" }],

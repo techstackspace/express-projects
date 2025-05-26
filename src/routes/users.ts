@@ -3,51 +3,58 @@ import jwt from 'jsonwebtoken';
 import { User } from '../models/User';
 import { authenticate, AuthenticatedRequest } from '../middleware/auth';
 import { Movie } from '../models/Movie';
+import { upload, uploadToCloudinary } from '../config/cloudinary';
 
 const router = Router();
 
 // 👤 Get current logged-in user's profile
-router.get("/me", authenticate as any, async (req: AuthenticatedRequest, res: any) => {
-  try {
-    const user = await User.findById(req.userId)
-      .populate("bookmarks")
-      .populate("likes")
-      .populate("watchHistory");
+router.get(
+  '/me',
+  authenticate as any,
+  async (req: AuthenticatedRequest, res: any) => {
+    try {
+      const user = await User.findById(req.userId)
+        .populate('bookmarks')
+        .populate('likes')
+        .populate('watchHistory');
 
-    if (!user) return res.status(404).json({ message: "User not found" });
+      if (!user) return res.status(404).json({ message: 'User not found' });
 
-    res.json({
-      id: user._id,
-      username: user.username,
-      email: user.email,
-      bookmarks: user.bookmarks,
-      likes: user.likes,
-      watchHistory: user.watchHistory,
-      createdAt: user.createdAt,
-    });
-  } catch (error) {
-    res.status(500).json({ message: "Failed to fetch user profile", error });
+      res.json({
+        id: user._id,
+        username: user.username,
+        email: user.email,
+        profileImage: user.profileImage, 
+        bookmarks: user.bookmarks,
+        likes: user.likes,
+        watchHistory: user.watchHistory,
+        createdAt: user.createdAt,
+      });
+    } catch (error) {
+      res.status(500).json({ message: 'Failed to fetch user profile', error });
+    }
   }
-});
-
+);
 
 // 🗂️ Get all bookmarks for the authenticated user
 // 🗂️ Get paginated bookmarks for the authenticated user
-router.get("/bookmarks", authenticate as any, async (req: AuthenticatedRequest, res: any) => {
-  try {
-    const { limit = 10, page = 1 } = req.query;
+router.get(
+  '/bookmarks',
+  authenticate as any,
+  async (req: AuthenticatedRequest, res: any) => {
+    try {
+      const { limit = 10, page = 1 } = req.query;
 
-    const perPage = parseInt(limit as string, 10);
-    const currentPage = parseInt(page as string, 10);
+      const perPage = parseInt(limit as string, 10);
+      const currentPage = parseInt(page as string, 10);
 
-    const user = await User.findById(req.userId);
-    if (!user) return res.status(404).json({ message: "User not found" });
+      const user = await User.findById(req.userId);
+      if (!user) return res.status(404).json({ message: 'User not found' });
 
-    const totalBookmarks = user.bookmarks.length;
+      const totalBookmarks = user.bookmarks.length;
 
-    const paginatedBookmarks = await User.findById(req.userId)
-      .populate({
-        path: "bookmarks",
+      const paginatedBookmarks = await User.findById(req.userId).populate({
+        path: 'bookmarks',
         options: {
           skip: (currentPage - 1) * perPage,
           limit: perPage,
@@ -55,16 +62,17 @@ router.get("/bookmarks", authenticate as any, async (req: AuthenticatedRequest, 
         },
       });
 
-    res.json({
-      page: currentPage,
-      totalPages: Math.ceil(totalBookmarks / perPage),
-      totalBookmarks,
-      bookmarks: paginatedBookmarks?.bookmarks || [],
-    });
-  } catch (error) {
-    res.status(500).json({ message: "Failed to fetch bookmarks", error });
+      res.json({
+        page: currentPage,
+        totalPages: Math.ceil(totalBookmarks / perPage),
+        totalBookmarks,
+        bookmarks: paginatedBookmarks?.bookmarks || [],
+      });
+    } catch (error) {
+      res.status(500).json({ message: 'Failed to fetch bookmarks', error });
+    }
   }
-});
+);
 
 // 📌 Get a specific bookmarked movie by its ID
 router.get(
@@ -135,7 +143,8 @@ router.post(
     try {
       const user = await User.findById(req.userId);
       const movie = await Movie.findById(req.params.movieId);
-      if (!user || !movie) return res.status(404).json({ message: 'User or Movie not found' });
+      if (!user || !movie)
+        return res.status(404).json({ message: 'User or Movie not found' });
 
       // Avoid duplicate bookmarks
       if (!user.bookmarks.includes(movie._id as any)) {
@@ -155,7 +164,6 @@ router.post(
   }
 );
 
-
 // ❌ Protected Route - Remove a bookmarked movie
 router.delete(
   '/bookmark/:movieId',
@@ -168,9 +176,7 @@ router.delete(
       const movieId = req.params.movieId;
       const originalLength = user.bookmarks.length;
 
-      user.bookmarks = user.bookmarks.filter(
-        (id) => id.toString() !== movieId
-      );
+      user.bookmarks = user.bookmarks.filter((id) => id.toString() !== movieId);
 
       if (user.bookmarks.length === originalLength) {
         return res.status(404).json({ message: 'Bookmark not found' });
@@ -183,7 +189,6 @@ router.delete(
     }
   }
 );
-
 
 // Protected Route - Like a Movie
 router.post(
@@ -222,26 +227,46 @@ router.post(
 );
 
 // 🔧 Update user details (authenticated user only)
-router.patch('/me', authenticate as any, async (req: AuthenticatedRequest, res: any) => {
-  try {
-    const userId = req.userId;
-    const { username, email, password } = req.body;
+router.patch(
+  '/me',
+  authenticate as any,
+  upload.single('profileImage'), // Handle optional file upload
+  async (req: AuthenticatedRequest, res: any) => {
+    try {
+      const userId = req.userId;
+      const { username, email, password, profileImageUrl } = req.body;
 
-    const user = await User.findById(userId);
-    if (!user) return res.status(404).json({ message: 'User not found' });
+      const user = await User.findById(userId);
+      if (!user) return res.status(404).json({ message: 'User not found' });
 
-    // Update only fields provided in the request
-    if (username) user.username = username;
-    if (email) user.email = email;
-    if (password) user.password = password; // will be hashed by pre-save hook
+      // Direct URL provided
+      if (profileImageUrl) {
+        user.profileImage = profileImageUrl;
+      }
 
-    await user.save();
+      // File uploaded
+      if (req.file) {
+        const uploadedUrl = await uploadToCloudinary(
+          req.file.buffer,
+          userId as any
+        );
+        user.profileImage = uploadedUrl;
+      }
 
-    res.json({ message: 'User updated successfully' });
-  } catch (error) {
-    res.status(500).json({ message: 'Failed to update user', error });
+      if (username) user.username = username;
+      if (email) user.email = email;
+      if (password) user.password = password;
+
+      await user.save();
+
+      res.json({
+        message: 'User updated successfully',
+        profileImage: user.profileImage,
+      });
+    } catch (error) {
+      res.status(500).json({ message: 'Failed to update user', error });
+    }
   }
-});
-
+);
 
 export default router;
