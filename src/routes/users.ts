@@ -230,8 +230,8 @@ router.post(
 router.patch(
   '/me',
   authenticate as any,
-  upload.single('profileImage'), // Handle optional file upload
-  async (req: AuthenticatedRequest, res: any) => {
+  upload.single('profileImageUrl'), // Handle optional file upload
+  async (req: AuthenticatedRequest, res: any,  next: any) => {
     try {
       const userId = req.userId;
       const { username, email, password, profileImageUrl } = req.body;
@@ -264,7 +264,8 @@ router.patch(
         profileImage: user.profileImage,
       });
     } catch (error) {
-      res.status(500).json({ message: 'Failed to update user', error });
+      // res.status(500).json({ message: 'Failed to update user', error });
+      next(error);
     }
   }
 );
