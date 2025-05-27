@@ -6,7 +6,7 @@
     "start": "bun src/index.ts",
     "dev": "bun --watch src/index.ts",
     "build": "bun build src/index.ts --outdir dist",
-    "seed": "bun dist/scripts/seedMovies.js",
+    "seed": "bun src/scripts/seedMovies.js",
     "dev:seed": "bun run watch & bun run seed & bun run dev",
     "open:shell": "bun scripts/openShell.js",
     "dev:all": "bun run watch & bun run seed & bun run dev & bun run open:shell"
