@@ -171,7 +171,7 @@ npm install
 
 ---
 
-## 4. How to Get Your TMDB API Key
+## 4. How to Get Your TMDB API Key (optional)
 
 To use the TMDB API, follow these steps:
 
